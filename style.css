@@ -1,0 +1,121 @@
+.parent{
+    width: 1200px;
+    height: 500px;
+    background-color: rgb(238, 236, 236);
+    margin-left: 10%;
+    position: absolute;
+}
+.fb{
+    width: 1200px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+}
+.sb{
+    width: 1200px;
+    height: 430px;
+    background-color: rgb(238, 236, 236);
+    position: absolute;
+    margin-top: 70px;
+}
+.tb{
+    width: 350px;
+    height: 420px;
+    background-color: white;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 700px;
+    box-shadow: 8px 4px 8px rgba(1, 1, 1, 0.1);
+}
+.image{
+    width: 120px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.text{
+    width: 520px;
+    height: 250px;
+    position: absolute;
+    background-color: rgba(245, 245, 220, 0);
+    padding: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 700;
+    margin-left: 110px;
+    margin-top: 60px;
+}
+.image1{
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 130px;
+}
+.st{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 40px;
+    margin-left: 70px;
+    font-size: 18px;
+    /* text-align: center; */
+}
+.us{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-left: 80px;
+    /* font-weight: bold; */
+}
+.form{
+    margin-left: 20px;
+    padding: 20px;
+    position: absolute;
+}
+.input{
+    width: 270px;
+    height: 30px;
+    background-color: rgba(24, 143, 255, 0.328);
+    /* border-width: 0px; */
+    border: 0px;
+    border-bottom: 2px solid blue;
+}
+.next{
+    width: 274px;
+    height: 40px;
+    background-color: rgb(24,143,255);
+    margin-top: 20px;
+    border-radius: 40px;
+    border-width: 0px;
+    cursor: pointer;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.next:hover, .ca:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.cb{
+    margin-left: 40px;
+    margin-top: 140px;
+}
+/* .sp{
+    color: rgb(24,143,255);
+    text-decoration: none;
+} */
+.trouble{
+    margin-left: 75px;
+}
+a{
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(24,143,255);
+}
+.caa{
+    width: 274px;
+    height: 40px;
+    margin-left: 40px;
+    border-radius: 40px;
+    border-color:rgb(24,143,255);
+    background-color: rgba(240, 248, 255, 0);
+    color: rgb(24,143,255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.caa:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
